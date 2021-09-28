@@ -1,6 +1,16 @@
 ## Hello Everyone
-<b> Meu nome e Gean é estou estudando Programação abaixo está todas as linguagens que estou me dedicando a aprender a cada dia para embarcar no mercado de trabalho futuramente.
-Seja bem vindos!
+<h4><b> Meu nome e Gean é estou estudando Programação abaixo está todas as linguagens que estou me dedicando a aprender a cada dia para embarcar no mercado de trabalho futuramente.</b></h4>
+<h2>Seja bem vindos!</h2>
+
+
+
+<div align="center">
+  <a href="https://github.com/jhancarllos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhancarllos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
